@@ -89,7 +89,7 @@ Originally designed to automate manual Excel-based pricing workflows in logistic
 
 MIT License
 
-Copyright (c) 2025 Ahmet Taha Günüç
+Copyright (c) 2025 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
