@@ -1,0 +1,77 @@
+product_name,category,price,quantity,date,supplier,region
+Laptop Pro,Electronics,1299.99,5,2024-01-15,TechSupplier,North
+Office Chair,Furniture,299.50,10,2024-01-16,FurnitureCo,North
+Wireless Mouse,Electronics,25.99,50,2024-01-17,TechSupplier,South
+Standing Desk,Furniture,599.00,8,2024-01-18,FurnitureCo,West
+Monitor 27",Electronics,349.99,15,2024-01-19,TechSupplier,East
+Keyboard Mechanical,Electronics,89.99,30,2024-01-20,TechSupplier,North
+Desk Lamp,Furniture,45.50,25,2024-01-21,FurnitureCo,South
+USB-C Hub,Electronics,39.99,40,2024-01-22,TechSupplier,West
+Bookshelf,Furniture,149.99,12,2024-01-23,FurnitureCo,East
+Webcam HD,Electronics,79.99,20,2024-01-24,TechSupplier,North
+Printer All-in-One,Electronics,249.99,6,2024-01-25,TechSupplier,South
+Filing Cabinet,Furniture,199.50,15,2024-01-26,FurnitureCo,West
+Laptop Stand,Electronics,49.99,35,2024-01-27,TechSupplier,East
+Ergonomic Mouse,Electronics,59.99,25,2024-01-28,TechSupplier,North
+Conference Table,Furniture,899.99,3,2024-01-29,FurnitureCo,South
+External SSD 1TB,Electronics,129.99,18,2024-01-30,TechSupplier,West
+Desk Organizer,Furniture,29.99,45,2024-01-31,FurnitureCo,East
+HDMI Cable,Electronics,19.99,60,2024-02-01,TechSupplier,North
+Whiteboard,Furniture,349.99,8,2024-02-02,FurnitureCo,South
+Laptop Pro,Electronics,1349.99,4,2024-02-03,TechSupplier,West
+Office Chair,Furniture,289.50,12,2024-02-04,FurnitureCo,East
+Wireless Mouse,Electronics,24.99,55,2024-02-05,TechSupplier,North
+Standing Desk,Furniture,619.00,7,2024-02-06,FurnitureCo,South
+Monitor 27",Electronics,329.99,18,2024-02-07,TechSupplier,West
+Keyboard Mechanical,Electronics,94.99,28,2024-02-08,TechSupplier,East
+Desk Lamp,Furniture,42.50,30,2024-02-09,FurnitureCo,North
+USB-C Hub,Electronics,44.99,38,2024-02-10,TechSupplier,South
+Bookshelf,Furniture,159.99,10,2024-02-11,FurnitureCo,West
+Webcam HD,Electronics,74.99,22,2024-02-12,TechSupplier,East
+Printer All-in-One,Electronics,259.99,5,2024-02-13,TechSupplier,North
+Filing Cabinet,Furniture,189.50,18,2024-02-14,FurnitureCo,South
+Laptop Stand,Electronics,54.99,32,2024-02-15,TechSupplier,West
+Ergonomic Mouse,Electronics,64.99,23,2024-02-16,TechSupplier,East
+Conference Table,Furniture,949.99,2,2024-02-17,FurnitureCo,North
+External SSD 1TB,Electronics,119.99,20,2024-02-18,TechSupplier,South
+Desk Organizer,Furniture,32.99,42,2024-02-19,FurnitureCo,West
+HDMI Cable,Electronics,17.99,65,2024-02-20,TechSupplier,East
+Whiteboard,Furniture,379.99,6,2024-02-21,FurnitureCo,North
+Laptop Pro,Electronics,1279.99,6,2024-02-22,TechSupplier,South
+Office Chair,Furniture,309.50,9,2024-02-23,FurnitureCo,West
+Wireless Mouse,Electronics,26.99,48,2024-02-24,TechSupplier,East
+Standing Desk,Furniture,589.00,9,2024-02-25,FurnitureCo,North
+Monitor 27",Electronics,359.99,14,2024-02-26,TechSupplier,South
+Keyboard Mechanical,Electronics,84.99,33,2024-02-27,TechSupplier,West
+Desk Lamp,Furniture,47.50,22,2024-02-28,FurnitureCo,East
+USB-C Hub,Electronics,34.99,42,2024-02-29,TechSupplier,North
+Bookshelf,Furniture,139.99,14,2024-03-01,FurnitureCo,South
+Webcam HD,Electronics,84.99,18,2024-03-02,TechSupplier,West
+Printer All-in-One,Electronics,239.99,7,2024-03-03,TechSupplier,East
+Filing Cabinet,Furniture,209.50,13,2024-03-04,FurnitureCo,North
+Laptop Stand,Electronics,44.99,38,2024-03-05,TechSupplier,South
+Ergonomic Mouse,Electronics,54.99,27,2024-03-06,TechSupplier,West
+Conference Table,Furniture,799.99,4,2024-03-07,FurnitureCo,East
+External SSD 1TB,Electronics,139.99,16,2024-03-08,TechSupplier,North
+Desk Organizer,Furniture,26.99,48,2024-03-09,FurnitureCo,South
+HDMI Cable,Electronics,22.99,55,2024-03-10,TechSupplier,West
+Whiteboard,Furniture,319.99,9,2024-03-11,FurnitureCo,East
+Gaming Laptop,Electronics,1899.99,2,2024-03-12,TechSupplier,North
+Executive Chair,Furniture,799.50,4,2024-03-13,FurnitureCo,South
+Graphics Tablet,Electronics,299.99,8,2024-03-14,TechSupplier,West
+Reception Desk,Furniture,1299.99,2,2024-03-15,FurnitureCo,East
+4K Monitor,Electronics,599.99,10,2024-03-16,TechSupplier,North
+Server Rack,Electronics,899.99,3,2024-03-17,TechSupplier,South
+Meeting Table,Furniture,599.50,5,2024-03-18,FurnitureCo,West
+Network Switch,Electronics,199.99,12,2024-03-19,TechSupplier,East
+Storage Cabinet,Furniture,249.99,8,2024-03-20,FurnitureCo,North
+Video Conference System,Electronics,799.99,2,2024-03-21,TechSupplier,South
+Workstation Desk,Furniture,449.99,6,2024-03-22,FurnitureCo,West
+Docking Station,Electronics,149.99,15,2024-03-23,TechSupplier,East
+Office Partition,Furniture,199.50,10,2024-03-24,FurnitureCo,North
+Security Camera,Electronics,249.99,8,2024-03-25,TechSupplier,South
+Break Room Table,Furniture,349.99,4,2024-03-26,FurnitureCo,West
+Projector 4K,Electronics,1299.99,3,2024-03-27,TechSupplier,East
+Cubicle Set,Furniture,899.50,3,2024-03-28,FurnitureCo,North
+Server Equipment,Electronics,2999.99,1,2024-03-29,TechSupplier,South
+Executive Desk,Furniture,1599.99,2,2024-03-30,FurnitureCo,West
