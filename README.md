@@ -80,7 +80,7 @@ pricing-data-analyzer/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/ThCain/pricing-data-analyzer.git
+git clone https://github.com/ThKazuya/pricing-data-analyzer.git
 cd pricing-data-analyzer
 ```
 
